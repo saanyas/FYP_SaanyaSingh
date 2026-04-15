@@ -1,5 +1,5 @@
 # Forecasting Policyholder Retention in Motor Insurance using Generalised Linear Models and Random Forests
-# Author: Saanya Singh
+### Author: Saanya Singh
 
  This repository contains:
  - SaanyaSingh_FYP.ipynb : the final Jupyer Notebook containing data exploration, renewal simulation, and the three models
@@ -8,11 +8,11 @@
  - 
 The raw datasets used are `freMTPL2freq` and `freMTPL2sev`, taken from the public freMTPL2 French motor third-party liability portfolio available on Kaggle.
 
- # Project overview
+## Project overview
 This project applies a logistic regression, GLM and Random Forest models to compare the methologogies when forecastin retention in motor insurance.
 The datasets do not contain a renewal indicator, and so one is simulated using a reproducible process.
 
-# To run this project:
+## To run this project:
 - download this repository
 - ensure both the datasets are in the same folder as SaanyaSingh_FYP.ipynb
 - open Jupyter Notebook
